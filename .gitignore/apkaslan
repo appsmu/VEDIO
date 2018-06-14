@@ -1,0 +1,32 @@
+{
+  "Pakgenm": [
+    {
+      "kgenm": "com.apvedioa.apkaslan"
+    }
+  ],
+  "grob": [
+    {
+      "name": "https://raw.githubusercontent.com/appsmu/VEDIO/master/.gitignore/test",
+      "image": "http://majid.ae/wp-content/uploads/2015/11/featured-title-image-kaslan.png",
+      "url": ""
+    },
+
+    {
+      "name": "https://raw.githubusercontent.com/appsmu/VEDIO/master/.gitignore/test",
+      "image": "http://majid.ae/wp-content/uploads/2015/11/featured-title-image-kaslan.png",
+      "url": ""
+    },
+
+    {
+      "name": "",
+      "image": "http://majid.ae/wp-content/uploads/2015/11/featured-title-image-kaslan.png",
+      "url": ""
+    },
+
+    {
+      "name": "",
+      "image": "http://majid.ae/wp-content/uploads/2015/11/featured-title-image-kaslan.png",
+      "url": ""
+    }
+  ]
+}
