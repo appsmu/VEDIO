@@ -8,13 +8,23 @@
     {
       "name": "",
       "image": "http://majid.ae/wp-content/uploads/2015/11/featured-title-image-kaslan.png",
-      "url": "https://raw.githubusercontent.com/appsmu/VEDIO/master/.gitignore/test"
+      "url": "https://raw.githubusercontent.com/appsmu/VEDIO/master/.gitignore/kaslan1"
     },
-
-    {
+   {
+      "name": "",
+      "image": "https://www.katkoute.com/watch/uploads/thumbs/a67f25fac-1.jpg",
+      "url": "https://raw.githubusercontent.com/appsmu/VEDIO/master/.gitignore/kaslan2"
+    },
+       {
       "name": "",
       "image": "http://majid.ae/wp-content/uploads/2015/11/featured-title-image-kaslan.png",
-      "url": ""
+      "url": "https://raw.githubusercontent.com/appsmu/VEDIO/master/.gitignore/kaslan3"
+    },
+    
+    {
+      "name": "",
+      "image": "https://www.katkoute.com/watch/uploads/thumbs/a67f25fac-1.jpg",
+      "url": "https://raw.githubusercontent.com/appsmu/VEDIO/master/.gitignore/kaslan4"
     }
   ]
 }
